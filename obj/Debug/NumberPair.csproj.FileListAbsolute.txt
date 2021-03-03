@@ -1,0 +1,10 @@
+F:\Csharp\NumberPair\NumberPair\bin\Debug\NumberPair.exe.config
+F:\Csharp\NumberPair\NumberPair\bin\Debug\NumberPair.exe
+F:\Csharp\NumberPair\NumberPair\bin\Debug\NumberPair.pdb
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.csprojAssemblyReference.cache
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.Form1.resources
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.Properties.Resources.resources
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.csproj.GenerateResource.cache
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.csproj.CoreCompileInputs.cache
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.exe
+F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.pdb
