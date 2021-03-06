@@ -8,3 +8,13 @@ F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.csproj.GenerateResource.cac
 F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.csproj.CoreCompileInputs.cache
 F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.exe
 F:\Csharp\NumberPair\NumberPair\obj\Debug\NumberPair.pdb
+C:\Users\jyun2\Desktop\NumberPair\bin\Debug\NumberPair.exe.config
+C:\Users\jyun2\Desktop\NumberPair\bin\Debug\NumberPair.exe
+C:\Users\jyun2\Desktop\NumberPair\bin\Debug\NumberPair.pdb
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.csprojAssemblyReference.cache
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.Form1.resources
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.Properties.Resources.resources
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.csproj.GenerateResource.cache
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.csproj.CoreCompileInputs.cache
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.exe
+C:\Users\jyun2\Desktop\NumberPair\obj\Debug\NumberPair.pdb
